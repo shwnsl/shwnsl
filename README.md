@@ -1,9 +1,34 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%" height="auto"/>
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Jun's%20Git&textBg=false&fontColor=fff&fontSize=70&fontAlign=50&animation=fadeIn&rotate=0&stroke=ccffff&strokeWidth=3)
 
-여행을 좋아하는 노준희입니다.<br/>
-<br/>
-<br/>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7Df1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faebonlee%2Fhit-counter&count_bg=%239119C2&title_bg=%23131212&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
-GitHubGitHub
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshwnsl%2Fhit-counter&count_bg=%234EEBF3&title_bg=%230040B8&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
+
+### 개발 잘하는 개발자가 되고 싶은 노준희입니다.
+여행과 낚시를 좋아해요 ㅎㅎ
+
+### Skills
+**Langs / Frameworks**<br>
+![html](https://img.shields.io/badge/html-green?logo=html5&logoColor=%23E34F26)
+![css](https://img.shields.io/badge/css-orange?logo=css3&logoColor=%231572B6)
+![sass](https://img.shields.io/badge/sass-navy?logo=sass&logoColor=%23CC6699)
+![JavaScript](https://img.shields.io/badge/Javascript-blue?logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-pink?logo=react&logoColor=%23%2361DAFB)
+![Vue](https://img.shields.io/badge/vue-purple?logo=vuedotjs&logoColor=%234FC08D)
+![TS](https://img.shields.io/badge/typescript-gold?logo=typescript&logoColor=%233178C6)
+
+
+**Interest**
+![Next](https://img.shields.io/badge/Next-green?logo=nextdotjs&logoColor=black)
+앵귤러
+![Java](https://img.shields.io/badge/Java-black?logo=openjdk&logoColor=%23fff)
+파이썬
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=%23fff)
+
+
+**Infra / Tools**
+
+vs코드 / 노션 / 슬랙 / 깃 / 소스트리 / 깃헙
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shwnsl&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shwnsl&show_icons=true&theme=tokyonight)
