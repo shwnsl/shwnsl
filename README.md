@@ -17,7 +17,7 @@
 ![TS](https://img.shields.io/badge/typescript-gold?logo=typescript&logoColor=%233178C6)
 
 
-**Interest**
+**Interest**<br>
 ![Next](https://img.shields.io/badge/Next-green?logo=nextdotjs&logoColor=black)
 ![Angular](https://img.shields.io/badge/angular-skyblue?logo=angular&logoColor=orange)
 ![Java](https://img.shields.io/badge/Java-black?logo=openjdk&logoColor=%23fff)
@@ -25,9 +25,14 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=%23fff)
 
 
-**Infra / Tools**
+**Infra / Tools**<br>
+![VScode](https://img.shields.io/badge/vscode-%232F80ED?logoColor=%233776AB)
+![Notion](https://img.shields.io/badge/notion-black?logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/slack-%234A154B?logo=slack&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white)
+![Github](https://img.shields.io/badge/Github-red?logo=github&logoColor=white)
+![Static Badge](https://img.shields.io/badge/sourcetree-0052CC?logo=sourcetree&logoColor=white)
 
-vs코드 / 노션 / 슬랙 / 깃 / 소스트리 / 깃헙
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shwnsl&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shwnsl&show_icons=true&theme=tokyonight)
