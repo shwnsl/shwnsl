@@ -19,9 +19,9 @@
 
 **Interest**
 ![Next](https://img.shields.io/badge/Next-green?logo=nextdotjs&logoColor=black)
-앵귤러
+![Angular](https://img.shields.io/badge/angular-skyblue?logo=angular&logoColor=orange)
 ![Java](https://img.shields.io/badge/Java-black?logo=openjdk&logoColor=%23fff)
-파이썬
+![Python](https://img.shields.io/badge/python-gold?logo=python&logoColor=%233776AB)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=%23fff)
 
 
@@ -30,5 +30,4 @@
 vs코드 / 노션 / 슬랙 / 깃 / 소스트리 / 깃헙
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shwnsl&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shwnsl&show_icons=true&theme=tokyonight)
